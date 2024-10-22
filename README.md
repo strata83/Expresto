@@ -18,10 +18,6 @@ ExPresto! is a tiny but powerful and user-friendly application designed to strea
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Icon made by [Author Name] from [www.flaticon.com](https://www.flaticon.com/)
-
 ## Support
 a
 If you encounter any problems or have any questions, please open an issue on GitHub.
