@@ -1,1 +1,1 @@
-web: exprs.py
+web: python exprs.py
