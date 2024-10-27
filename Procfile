@@ -1,1 +1,1 @@
-web: python exprs.py
+web: streamlit run exprs.py
